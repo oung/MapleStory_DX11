@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>F:\C++_Client\MapleStory_DX11\GameEngine\BIn\ColorMesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\C++_Client\MapleStory_DX11\GameEngine\BIn\Mesh2D.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
